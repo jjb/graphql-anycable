@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "anycable-core"
+require "anycable"
 require "graphql/subscriptions"
 require "graphql/anycable/errors"
 
